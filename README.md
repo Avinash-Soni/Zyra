@@ -2,7 +2,8 @@
 
 Zyra is a simple web-based voice assistant built using **JavaScript, HTML, and CSS**, capable of understanding specific voice commands and responding accordingly. It is deployed and live at:
 
-👉 **[Live Demo]https://zyra-by-avinashsoni.netlify.app/**
+👉 **[Live Demo]
+https://zyra-by-avinashsoni.netlify.app/**
 
 ---
 
