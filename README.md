@@ -1,10 +1,8 @@
 # Zyra - Voice Assistant
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://zyra-by-avinashsoni.netlify.app/)
-
 Zyra is a simple web-based voice assistant built using **JavaScript, HTML, and CSS**, capable of understanding specific voice commands and responding accordingly. It is deployed and live at:
 
-👉 **[Live Demo](https://zyra-by-avinashsoni.netlify.app/)**
+👉 **[Live Demo]https://zyra-by-avinashsoni.netlify.app/**
 
 ---
 
